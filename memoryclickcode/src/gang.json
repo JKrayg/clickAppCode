@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Mac",
+      "image": "https://www.thewrap.com/wp-content/uploads/2011/08/Fat_Mac.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Dennis",
+      "image": "https://i.pinimg.com/originals/22/34/c9/2234c9c08b961d25a01e430c2adb988b.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Dee",
+      "image": "https://hips.hearstapps.com/ell.h-cdn.co/assets/16/01/1452121732-elle-sweet-dee-index.jpg?crop=1xw:1.0xh;center,top&resize=480:*",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Charlie",
+      "image": "https://i.pinimg.com/originals/d1/b5/bf/d1b5bfd73154e7048c7576caebbf721a.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Frank",
+      "image": "https://i.imgflip.com/34ny52.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Rickety Cricket",
+      "image": "https://i.redd.it/yq0vgythwdx11.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Bill Ponderosa",
+      "image": "https://sunnygifs.com/wp-content/uploads/2019/12/VHMOYjk-360x270.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "The McPoyles",
+      "image": "https://1.bp.blogspot.com/-EoUkFLQI3ZM/XJ7ltvoIVwI/AAAAAAAA_E8/tIdrGGP0YqElWPSIpJrB6Fh_4OHAhkfUgCLcBGAs/s1600/7.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Gail the Snail",
+      "image": "https://i.pinimg.com/originals/8b/31/f4/8b31f4d41e6d531f535143fdf6a1b4ee.png",
+      "clicked": false
+    }
+]
